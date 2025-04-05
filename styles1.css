@@ -1,0 +1,13 @@
+body {background-color: lightyellow;}
+.banner { 
+	background-color: #F4C2C2;
+	color: #25A18E;
+	text-align: center;
+	font-size: 300%;}
+h2 {font-weight: normal; font-size: 200%;}
+p {font-size: 200%; text-align: center;}
+.footer {
+	background-color:#F4C2C2;
+	color: #004E64;}
+.breakfast {text-align: center;}
+sup {font-size: 200%; text-align: center;}

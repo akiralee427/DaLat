@@ -1,0 +1,14 @@
+body {background-color: lightyellow;}
+.banner { 
+	background-color: #E7FFCE;
+	color: #DEA5A4;
+	text-align: center;}
+h3 {text-align: center;}
+p {text-align: center;}
+b {border: 1px solid black;}
+h4 {font-size: 150%; line-height: 0px; font-weight: normal;}
+.arrow {font-size: 200%;} 
+div {text-align: center;}
+.footer {
+	background-color:#F4C2C2;
+	color: #004E64;}
